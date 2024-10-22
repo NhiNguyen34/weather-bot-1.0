@@ -1,5 +1,8 @@
 # **weather-bot-1.0**
 
+![Demo](https://github.com/user-attachments/assets/78b5304d-5684-45be-8d84-df123c913ab3)
+
+
 ## **Introduction**
 This is a **Weather Chatbot** built with **Streamlit** that integrates with the OpenWeather API to provide weather updates. The chatbot can:
 - Recognize user intents such as **greetings**, **weather inquiries**, or **farewell messages**.
