@@ -23,7 +23,7 @@ This is a **Weather Chatbot** built with **Streamlit** that integrates with the 
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/NhiNguyen34/weather-bot-1.0.git
    cd project/
     ```
    
