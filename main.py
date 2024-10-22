@@ -24,7 +24,7 @@ def extract_city(user_input):
 
 # Weather API Response
 def get_weather_from_api(city):
-    api_key = "1dc860e9c68109d088219986a6339955"  # Replace with your actual API key
+    api_key = "your_actual_api_key"  # Replace with your actual API key
     base_url = "http://api.openweathermap.org/data/2.5/weather"
     params = {"q": city, "appid": api_key, "units": "metric"}
 
