@@ -76,7 +76,7 @@ This is a **Weather Chatbot** built with **Streamlit** that integrates with the 
 
 - Open-Ended Responses with GPT-2: The distilgpt2 model from Hugging Face generates responses for inputs that don’t match predefined intents.
 
-** Important Notes
+** **Important Notes**
 - Replace the API key in the code with your own key from OpenWeather: `api_key = "your_actual_api_key"`
 - For any questions or issues, please contact me or open an issue on the GitHub repository.
 
